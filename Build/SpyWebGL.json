@@ -1,6 +1,6 @@
 {
-"companyName": "LHA",
-"productName": "快遞特務",
+"companyName": "DefaultCompany",
+"productName": "GyroscopeAccelerometerWebGL.unitypackage",
 "productVersion": "0.1",
 "dataUrl": "SpyWebGL.data.unityweb",
 "wasmCodeUrl": "SpyWebGL.wasm.code.unityweb",
